@@ -5,6 +5,7 @@
 - Elias
 - Miqueias
 - Vanessa
+- Italo Mateus
 - Vitória
 - Rafael
 
